@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../day_2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "day_3"
+	}
+}
